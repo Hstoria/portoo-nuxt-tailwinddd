@@ -1,7 +1,9 @@
 ---
-title: 👋 Hola , Good Day !
+title: 👋 Hola Amigos Tomodachii!
 page: intro
 draft: false
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
+Perkenalkan nama lengkap saya adalah Mohammad Haryo Hammam Q, biasa dipanggil Hammam atau Hamud kalau di tongkrongan. Saya lahir di Kediri, 14 April 2005, saya sekarang sedang menempuh pendidikan di Universitas Brawijaya, jurusan Teknologi Informasi dari tahun 2023.
+
+Saya memiliki banyak hobi, seperti bermain game, mendengarkan musik, dan belajar hal baru. Saya juga suka melakukan hal-hal yang berkaitan dengan teknologi, seperti melakukan tweaking pada PC, dan belajar bahasa pemograman. Lalu saya juga suka mengisi waktu luang saya dengan modelling 3D menggunakan Blender, dan Autodesk Maya saya tertarik dengan modelling 3D dari berumur 13 tahun.

@@ -57,7 +57,6 @@
           href="https://github.com/mdrathik/tailwind-nuxtjs-starter-blog"
         ></a>
       </div>
-      <BuyMeACoffee></BuyMeACoffee>
     </div>
   </footer>
 </template>
@@ -65,10 +64,4 @@
 <script setup>
 import siteMetaInfo from "@/data/sitemetainfo";
 import author from "@/data/author.js";
-import BuyMeACoffee from "./BuyMeACoffee.vue";
-import YoutubeIcon from "assets/icons/youtube.svg?component";
-import FacebookIcon from "assets/icons/facebook.svg?component";
-import MailIcon from "assets/icons/mail.svg?component";
-import LinkedingIcon from "assets/icons/linkeding.svg?component";
-import GithubNewIcon from "assets/icons/github_new.svg?component";
 </script>

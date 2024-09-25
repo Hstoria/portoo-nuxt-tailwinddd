@@ -1,9 +1,8 @@
 const siteMetaInfo = {
   // Used on Header
-  title: "Mondongo",
-  description: "A tech enthusiast & self taught learner. Love to talk the way of tech.",
+  title: "Holla amigos",
+  description: "Kurang tau.",
   // Used on Footer
-  slogan: "Let's start coding",
   // System Settings
   language: "en-us",
   theme: "system", // system, dark or light
